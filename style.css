@@ -323,6 +323,7 @@ body {
   border-top-right-radius: 2rem;
   transform: translateY(100%);
   transition: 1s ease-in-out;
+  z-index: 10;
 }
 
 .row {
